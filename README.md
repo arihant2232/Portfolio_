@@ -20,4 +20,31 @@ I'm a highly driven MCA graduate looking for the opportunity to use my knowledge
   2021 - 2024
 
 - **Higher Secondary**
-  Presidency Public School 
+  Presidency Public School, Meerut
+  2020 - 2021
+
+- **Secondary School**
+  Rishabh Academy, Meerut
+  2018 - 2019
+
+## Work Experience
+- **Fresher**
+
+## Skills & Interests
+- **Interests:** Teaching (Experience of 5 years)
+- **Skills:**
+  - Problem Solving
+  - Decision Making
+  - C Language
+  - ChatGPT
+  - Good Listener and Learner
+  - Math Skills
+  - Calculative Thinking
+
+## Personal Profile
+- **Gender:** Male
+- **Date of Birth:** 09/03/2003
+- **Languages Known:** Hindi & English
+- **Hobbies:** Gaming, Teaching, Internet Surfing
+- **Marital Status:** Single
+- **Nationality:** Indian
